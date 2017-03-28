@@ -1,0 +1,8 @@
+Package: swift
+Version: 3.1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: clang, libicu-dev
+Maintainer: Tanner Nelson <tanner@vapor.codes>
+Description: Swift 3.1.0

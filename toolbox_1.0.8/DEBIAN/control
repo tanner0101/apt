@@ -1,0 +1,8 @@
+Package: vapor-toolbox
+Version: 1.0.8
+Section: base
+Priority: optional
+Architecture: all
+Depends: swift (>=3.1.0)
+Maintainer: Tanner Nelson <tanner@vapor.codes>
+Description: Vapor Toolbox 1.0.8
